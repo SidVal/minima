@@ -1,6 +1,6 @@
-title: Your awesome title
+title: AMP v1
 author:
-  name: GitHub User
+  name: SidVal
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -25,7 +25,7 @@ minima:
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
